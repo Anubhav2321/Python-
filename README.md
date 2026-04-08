@@ -1,8 +1,6 @@
-<div align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d3679fa3-ebd5-43f7-886a-844b5b1b74c4" />
-  
-</div>
-# 🚀 Python Beginner Tutorial & Mini Projects
+<h1 style="font-size: 40px;">
+  🚀 Python Beginner Tutorial & Mini Projects
+</h1>
 
 ![Python](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/python.gif)
 
